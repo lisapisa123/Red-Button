@@ -1,0 +1,101 @@
+{
+  "_class": "document",
+  "agreedToFontEmbedding": false,
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "31BC3FB0-0AC9-49AE-839B-3086D7B98626",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "autoEmbedFonts": false,
+  "colorSpace": 0,
+  "do_objectID": "c8c9e2b0-caa5-11ea-a40f-2d9827c49c81",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "21562AD7-743A-4571-BE9A-0408F980B320",
+      "fontFamilyName": "DB Office",
+      "fontFileName": "DBOffice-Italic_3189785956.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "DBOffice-Italic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "393462BA-E17B-4ABB-9746-CB771FDB11CF",
+      "fontFamilyName": "DB Office",
+      "fontFileName": "DBOffice-Bold_3195673997.ttf",
+      "options": 2,
+      "postscriptNames": [
+        "DBOffice-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "89D02D78-ED45-49A2-8017-67934ED8E523",
+      "fontFamilyName": "DB Office",
+      "fontFileName": "DBOffice-Regular_1430248417.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "DBOffice-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8E21D670-7C6C-4B56-AF26-ACAC5D6BF3C6",
+      "fontFamilyName": "DB Office",
+      "fontFileName": "DBOffice-BoldItalic_2490228969.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "DBOffice-BoldItalic"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "67.2",
+    "build": 100443,
+    "version": 130
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
